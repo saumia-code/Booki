@@ -42,7 +42,8 @@ Le site est responsive et adapté aux supports :
 
 ## 🔗 Lien du site en ligne
 
-👉 [Voir la démo sur GitHub Pages](https://saumia-code.github.io/Booki)
+👉 Vous pouvez consulter le site déployé ici :  
+[Booki sur GitHub Pages](https://saumia-code.github.io/Booki/)
 
 ---
 
