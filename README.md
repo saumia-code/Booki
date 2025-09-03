@@ -67,5 +67,5 @@ Le site est responsive et adapté aux supports :
 ## 👩‍💻 Auteur
 
 **Soumia Bouizran**  
-📧 Contact : [votre email]  
+📧 Contact : dev.soumia@gmail.com 
 🔗 GitHub : [https://github.com/saumia-code](https://github.com/saumia-code)
