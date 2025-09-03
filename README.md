@@ -1,6 +1,6 @@
 # 🌐 Booki
 
-**Projet 2 - Formation OpenClassrooms : Développeur Web**  
+**Projet 1 - Formation OpenClassrooms : Développeur Web**  
 **Intégration d'une maquette Figma responsive pour un site de planification de vacances**  
 
 ![Statut](https://img.shields.io/badge/Statut-Validé-brightgreen)
